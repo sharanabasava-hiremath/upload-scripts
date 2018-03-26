@@ -1,6 +1,6 @@
 #!/bin/bash
-# @author - Chaitanya Kannali - @Copyright - CA Technologies , 2016.
-# Extract Crash Reports from CA MAA and desymbolicate them.
+# @Copyright - CA Technologies , 2016.
+# Extract Crash Reports and desymbolicate them.
  
 ## The following are required for - rest apis.
 echo "################################ - START - ##############################"
